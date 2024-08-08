@@ -13,3 +13,4 @@ ffprobe
 cryptg
 telethon
 python-decouple
+youtube-dl
