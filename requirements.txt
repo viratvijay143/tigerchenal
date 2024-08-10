@@ -12,4 +12,4 @@ ffprobe
 cryptg
 telethon
 python-decouple
-git+https://github.com/KaalOS/downloader
+yt-dlp
